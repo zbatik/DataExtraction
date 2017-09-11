@@ -1,0 +1,4 @@
+﻿Load ..\Utilities
+Load ..\DataExtraction
+Load TestSet
+Run 'SQA' ⎕CY 'SQAPL'
